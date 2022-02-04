@@ -1,6 +1,6 @@
 {
-  "name": "@scalable-design/gatsby-theme-prototype",
-  "version": "1.0.0",
+  "name": "@jonrirothwell/gatsby-theme-prototype",
+  "version": "1.0.0-alpha",
   "main": "index.js",
   "author": "Jonri Rothwell <jonri.rothwell@gmail.com> (@grataydesigns)",
   "keywords": [
