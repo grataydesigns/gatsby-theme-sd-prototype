@@ -2,7 +2,7 @@
   Starter for creating creating prototypes using Gatsby
 </h1>
 
-The `@scalable-design/gatsby-theme-prototype` was created using the `gatsby-starter-theme-workspace`, which helps you to setup a development environment to get started building your own Gatsby themes.
+The `@jonrirothwell/gatsby-theme-prototype` was created using the `gatsby-starter-theme-workspace`, which helps you to setup a development environment to get started building your own Gatsby themes.
 
 ```shell
 gatsby new my-theme https://github.com/gatsbyjs/gatsby-starter-theme-workspace
