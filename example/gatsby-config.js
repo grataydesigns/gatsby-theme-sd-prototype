@@ -1,6 +1,6 @@
 module.exports = {
   plugins: [
-    { resolve: `gatsby-theme-sd-prototype`, options: {} },
+    { resolve: `@scalable-design/gatsby-theme-prototype`, options: {} },
     `gatsby-plugin-sass`,
   ],
 };

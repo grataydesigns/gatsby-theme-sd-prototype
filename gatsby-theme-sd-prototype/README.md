@@ -6,8 +6,8 @@
 mkdir my-site
 cd my-site
 yarn init
-# install gatsby-theme-sd-prototype and it's dependencies
-yarn add gatsby react react-dom gatsby-theme-sd-prototype
+# install @scalble-design/gatsby-theme-prototype and it's dependencies
+yarn add gatsby react react-dom @scalable-design/gatsby-theme-prototype
 ```
 
 Then add the theme to your `gatsby-config.js`. We'll use the long-form
@@ -17,7 +17,7 @@ here for educational purposes.
 module.exports = {
   plugins: [
     {
-      resolve: 'gatsby-theme-sd-prototype',
+      resolve: '@scalable-design/gatsby-theme-prototype',
       options: {},
     },
   ],

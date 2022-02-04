@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaBeer } from '@react-icons/all-files/fa/FaBeer';
-import { Layout } from 'gatsby-theme-sd-prototype';
+import { Layout } from '@scalable-design/gatsby-theme-prototype';
 
 export default function Home() {
   return (
